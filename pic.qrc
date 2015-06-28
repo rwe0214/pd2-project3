@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bluebomb.jpg</file>
+        <file>bluehor.jpg</file>
+        <file>bluever.jpg</file>
+        <file>color.jpg</file>
+        <file>greenbomb.jpg</file>
+        <file>greenhor.jpg</file>
+        <file>greenver.jpg</file>
+        <file>redbomb.jpg</file>
+        <file>redhor.jpg</file>
+        <file>redver.jpg</file>
+        <file>yellowbomb.jpg</file>
+        <file>yellowhor.jpg</file>
+        <file>yellowver.jpg</file>
+        <file>blue.jpg</file>
+        <file>green.jpg</file>
+        <file>red.jpg</file>
+        <file>yellow.jpg</file>
+        <file>images (1).jpg</file>
+        <file>images (2).jpg</file>
+        <file>01300000869789127633543304016_s.jpg</file>
+        <file>654654.jpg</file>
+        <file>images (3).jpg</file>
+    </qresource>
+</RCC>
